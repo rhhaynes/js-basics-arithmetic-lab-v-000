@@ -1,4 +1,4 @@
-const newID = oldID + 1000000000;
+const newID = oldID + 1e9;
 
 const ageIsValid = Number.isInteger(currentAge);
 
